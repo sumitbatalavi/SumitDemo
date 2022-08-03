@@ -4,6 +4,7 @@ public class Demofirst {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Hi Sowmya");
+		System.out.println("Make changes");
 	}
 
 }
