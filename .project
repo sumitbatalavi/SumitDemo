@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+ Jash
 	<name>If States</name>
+
+ main
+	<name>Demo_Test</name>
+
+	<name>Hi</name>
+ bhargavi
+ main
 	<comment></comment>
 	<projects>
 	</projects>
@@ -10,8 +18,26 @@
 			<arguments>
 			</arguments>
 		</buildCommand>
+ Jash
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
+
+ main
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+ bhargavi
+ main
 	</natures>
 </projectDescription>
