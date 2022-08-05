@@ -8,6 +8,7 @@ public class Demo_Vaishu {
 		System.out.println("ABC");
 		System.out.println("hello world");
 		System.out.println("i am trying to do the new changes in Git");
+		System.out.println("Finally i push the code and pull the code in Git");
 		
 	}
 
