@@ -7,7 +7,7 @@ public class Demo_Vaishu {
 		System.out.println("i am trying to pull the code");
 		System.out.println("ABC");
 		System.out.println("hello world");
-		
+		System.out.println("i am trying to do the new changes in Git");
 		
 	}
 
