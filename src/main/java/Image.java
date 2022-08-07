@@ -9,6 +9,7 @@ public class Image {
 	@Test
 	public static void pic() throws InterruptedException {
 		System.setProperty("webdriver.chrome.driver", "C:\\Program Files\\apache-maven-3.8.6\\chromedriver.exe");
+		
 		WebDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("http://www.leafground.com/");
